@@ -10,11 +10,6 @@ Tkinter: Certifique-se de que a biblioteca Tkinter esteja instalada em sua vers�
 
 sudo apt-get install python3-tk
 
-Requisitos do Sistema
-Certifique-se de que o Nmap esteja instalado na máquina de destino, já que o seu aplicativo depende do Nmap para funcionar.
-Se você tiver um arquivo requirements.txt contendo outras dependências do projeto, pode instalá-las antes de executar o PyInstaller com o comando:
-bash
-
 pip install -r requirements.txt
 
 Para o script funcionar é necessário entrar como root. Pode ser o sudo.
