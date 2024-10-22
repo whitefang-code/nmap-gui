@@ -19,5 +19,5 @@ pip install -r requirements.txt
 
 Para o script funcionar é necessário entrar como root. Pode ser o sudo.
 
-
+sudo python3 main.py
 
